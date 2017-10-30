@@ -5,9 +5,12 @@
  */
 package pruebajava1;
 
-/**
- *
+/*****************************************************************************************************************************
+ *Claudia Veas M.
  * @author LAB03
+ * fecha:Octubre 30 de 2017
+ * Programa:pruebajava1
+ * Responsabilidad:clase Principal
  */
 public class Pruebajava1 {
 
